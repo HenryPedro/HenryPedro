@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Pedro Henrique</h1>
+<h1 align="center">Seja bem-vindo(a)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrypedro&label=Profile%20views&color=0e75b6&style=flat" alt="henrypedro" /> </p>
 
 <h3 align="left">Connect with me:</h3>
