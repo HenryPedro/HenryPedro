@@ -17,7 +17,7 @@
 <h2 align="center">My Favorite Languages & Tools</h2>
 
 <p align="center">
-  <img src="" alt="JavaScript" width="80" height="80" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/HenryPedro/HenryPedro/refs/heads/main/images/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/HenryPedro/HenryPedro/refs/heads/main/images/java-logo-1.png" alt="Java" width="80" height="80" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/HenryPedro/HenryPedro/89a5d19409ebb3584e581651c21296a5fc33034a/images/c-sharp-c-icon-912x1024-j3yidw37.png" alt="C#" width="80" height="80" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/HenryPedro/HenryPedro/refs/heads/main/images/HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="80" height="80" style="margin: 10px;">
