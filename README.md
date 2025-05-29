@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! 👋🏻</h1>
-<h3>Profile under maintenance! ⚠️ </h3>
 ---
 
 <p align="center">
