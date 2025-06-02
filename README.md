@@ -41,3 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HenryPedro&show_icons=true&theme=dark" alt="HenryPedro's GitHub Stats"/>
   </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HenryPedro/HenryPedro/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HenryPedro/HenryPedro/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/HenryPedro/HenryPedro/blob/output/github-snake.svg" />
+</picture>
