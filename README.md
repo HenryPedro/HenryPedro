@@ -3,7 +3,7 @@
 <p align="center">
   🐞 Creating bugs since 2024
   <br><br>
-  📚 I'm currently diving deep into <b>C#</b>
+  📚 I'm currently diving deep into <b>JS/TS</b>
   <br>
   🎯 <b>Goal:</b> Becoming a FullStack Developer!
   <br><br>
