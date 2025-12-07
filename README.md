@@ -3,11 +3,9 @@
 <p align="center">
   🐞 Creating bugs since 2024
   <br><br>
-  📚 I'm currently diving deep into <b>JS/TS</b>
-  <br>
-  🎯 <b>Goal:</b> Becoming a FullStack Developer!
+  📚 I'm currently diving deep into <b>C#</b>
   <br><br>
-  🎲 <b>Fun Fact:</b> I'm 20 years old and passionate about Technology!
+  🎲 <b>Fun Fact:</b> I'm 21 years old and passionate about Technology!
 </p>
 
 ---
