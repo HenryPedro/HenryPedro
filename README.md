@@ -5,8 +5,7 @@
   <br><br>
   📚 I'm currently diving deep into <b>C#</b>
   <br><br>
-<p>
----
+<br>
 
 <h2 align="center">My Favorite Languages & Tools</h2>
 <p align="center">
