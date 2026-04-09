@@ -5,7 +5,6 @@
   <br><br>
   📚 I'm currently diving deep into <b>C#</b>
   <br><br>
-  🎲 <b>Fun Fact:</b> I'm 21 years old and passionate about Technology!
 </p>
 
 ---
