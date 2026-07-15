@@ -40,8 +40,8 @@ $ neofetch --theme metal-architect
 👤 architect@mainframe:~$ cat root/about.json
 {
   "name": "Pedro Almeida",
-  "role": "Back-end Engineer & Software Architect",
-  "fuel": "Café forte e Heavy Metal ",
+  "role": "Back-end & Software Architect",
+  "fuel": "Café forte e uma boa dose de Heavy Metal ",
 }
 ```
 ---
