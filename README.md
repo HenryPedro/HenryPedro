@@ -54,17 +54,14 @@ Atuo na projeção e desenvolvimento de softwares e integrações.
   
 ## 🛠️ Tech Arsenal & Architecture
   
-As armas que utilizo para construir infraestruturas pesadas:
+O que eu utlizo:
 
-**Back-end & ERP Ecosystem**
 <p align="center">
   <img src="https://img.shields.io/badge/AdvPL_%7C_TL++-0A192F?style=flat-square&logo=totvs&logoColor=white" alt="AdvPL"/>
   <img src="https://img.shields.io/badge/C%23-0B0C10?style=flat-square&logo=c-sharp&logoColor=C5001A" alt="C#"/>
   <img src="https://img.shields.io/badge/Node.js-0B0C10?style=flat-square&logo=nodedotjs&logoColor=C5001A" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-0B0C10?style=flat-square&logo=python&logoColor=C5001A" alt="Python"/>
-</p>
 
-**Database & Architecture**
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-C5001A?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -86,7 +83,6 @@ As armas que utilizo para construir infraestruturas pesadas:
 
 <div align="center">
 
-<div align="center">
 
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler*
 
