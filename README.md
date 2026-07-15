@@ -27,8 +27,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 💀 System Diagnostics & Bio
+
+</div>
 
 ```bash
 $ neofetch --theme metal-architect
@@ -39,7 +42,6 @@ $ neofetch --theme metal-architect
   "name": "Pedro Almeida",
   "role": "Back-end Engineer & Software Architect",
   "fuel": "Café forte e Heavy Metal ",
-  "philosophy": "Arquitetura sólida não aceita gambiarra. Código limpo, escalável e de fácil manutenção."
 }
 ```
 ---
@@ -48,13 +50,14 @@ $ neofetch --theme metal-architect
 Atuo na projeção e desenvolvimento de softwares e integrações. 
 
 ---
-
+<div align="center">
+  
 ## 🛠️ Tech Arsenal & Architecture
-
+  
 As armas que utilizo para construir infraestruturas pesadas:
 
 **Back-end & ERP Ecosystem**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/AdvPL_%7C_TL++-0A192F?style=flat-square&logo=totvs&logoColor=white" alt="AdvPL"/>
   <img src="https://img.shields.io/badge/C%23-0B0C10?style=flat-square&logo=c-sharp&logoColor=C5001A" alt="C#"/>
   <img src="https://img.shields.io/badge/Node.js-0B0C10?style=flat-square&logo=nodedotjs&logoColor=C5001A" alt="Node.js"/>
@@ -62,57 +65,31 @@ As armas que utilizo para construir infraestruturas pesadas:
 </p>
 
 **Database & Architecture**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-C5001A?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/REST_APIs-C5001A?style=flat-square&logo=openapi-initiative&logoColor=white" alt="REST API"/>
 </p>
 
----
-
-## 📈 Commits & Code Analytics
-
+<div align="center">
+  
 <p align="center">
   <!-- Gráfico de Streak na paleta Azul Escuro, Preto e Vermelho -->
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&border=C5001A&background=0B0C10&ring=0A192F&fire=C5001A&currStreakLabel=FFFFFF" alt="GitHub Streak" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=HenryPedro&theme=dark&border=C5001A&background=0B0C10&ring=0A192F&fire=C5001A&currStreakLabel=FFFFFF" alt="GitHub Streak" height="175"/>
 </p>
 
 <p align="center">
-  <!-- Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&icon_color=C5001A&text_color=FFFFFF&title_color=0A192F&bg_color=0B0C10&hide_border=false&border_color=1F2833" alt="GitHub Stats" height="175"/>
+  
   <!-- Top Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=5&theme=dark&icon_color=C5001A&text_color=FFFFFF&title_color=0A192F&bg_color=0B0C10&border_color=1F2833" alt="Top Languages" height="175"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=henrypedro&show_icons=true&theme=shadow_red" alt="Top Languages" height="300"/>
 </p>
 
----
-
-## 🚀 Arquitetura & Projetos
-
-Laboratórios e implementações onde transformo requisitos de negócio em código funcional:
-
-| ⚡ Projeto & Repositório | 🔧 Stacks Utilizadas | 🎯 Foco / Domínio |
-| :--- | :--- | :--- |
-| **[API de Integração Protheus](https://github.com/SEU_USUARIO/PROJETO1)** | `AdvPL`, `REST`, `JSON` | Exposição de endpoints seguros para ERP. |
-| **[Microsserviço de Faturamento](https://github.com/SEU_USUARIO/PROJETO2)** | `C#`, `SQL Server`, `Docker` | Arquitetura distribuída de alta performance. |
-| **[Monitoramento de Filas](https://github.com/SEU_USUARIO/PROJETO3)** | `Node.js`, `RabbitMQ` | Observabilidade e resiliência no Back-end. |
-
----
-
-## 🧠 Core Competencies
-
-*   **Design de Software:** Clean Architecture, SOLID, Design Patterns.
-*   **TOTVS ERP:** Customizações complexas, Pontos de Entrada, Integrações EAI/REST, Banco de Dados Relacional (SGBD).
-*   **Soft Skills:** Resolução crítica de problemas, comunicação técnica clara, mentalidade analítica e foco em escalabilidade.
-
----
+<div align="center">
 
 <div align="center">
 
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler*
 
 <br/>
-
-<!-- Contador de Views (Preto e Vermelho) -->
-[![Visualizações](https://komarev.com/normal-badge/?id=SEU_USUARIO&color=C5001A&style=for-the-badge&label=SYSTEM_ACCESSES&logo=linux&logoColor=white)](https://github.com/SEU_USUARIO)
 
 </div>
